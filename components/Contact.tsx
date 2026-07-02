@@ -18,7 +18,7 @@ const CHANNELS = [
   },
   {
     label: "Location",
-    value: "Nashik, Maharashtra, India",
+    value: "Pune, Maharashtra, India",
     href: null,
   },
 ];
